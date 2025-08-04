@@ -1,1 +1,1 @@
-sudo wget -O /usr/lib/waydroid/data/scripts/waydroid-net.sh https://github.com/Hhk78/waydroid-hacks/raw/refs/heads/main/waydroid-net/waydroid-net-without-dns-port-bind.sh
+sudo wget -O /usr/lib/waydroid/data/scripts/waydroid-net.sh https://raw.githubusercontent.com/liberteryen/waydroid-hacks/refs/heads/main/waydroid-net/waydroid-net-force-iptables-and-without-dns-port-bind.sh
